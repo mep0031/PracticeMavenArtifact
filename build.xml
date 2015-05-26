@@ -1,1 +1,6 @@
-<copy file="myfile.txt" tofile="mycopy.txt"/>
+<project>
+    <target name = "fail">
+        <copy file="myfile.txt" tofile="mycopy.txt"/>
+    </target>
+</project>
+   
